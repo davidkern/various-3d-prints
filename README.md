@@ -6,5 +6,10 @@ Various models I created for mundane tasks, not deserving of their own repos.
 is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). You are free
 to modify and reshare these works for any purpose, as long as you attribute me per the license.
 
-In some cases, certain models are licensed under different terms due to inclusion of other works (such
-as GPL). Please refer to the individual model file comments to determine if any other license applies.
+Some models are licensed under different terms - these models are identified in source comments and with a note below.
+
+## Contents
+
+ * ![Bathroom sink tray](img/bathroom-sink-tray.jpg) - Bathroom Sink Tray [SCAD](bathroom-sink-tray.scad) [STL](bathroom-sink-tray.stl) An above-the-sink shelf for our camper. (GPLv3)
+ * GPU Expander (Work in Progress) - [SCAD](gpu-expander.scad).
+
