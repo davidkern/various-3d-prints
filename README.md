@@ -16,10 +16,9 @@ An above-the-sink shelf for our camper. (GPLv3)
 
 ![Bathroom sink tray](img/bathroom-sink-tray.jpg)
 
-[SCAD](bathroom-sink-tray.scad)
-[STL](bathroom-sink-tray.stl)
+[OpenSCAD](bathroom-sink-tray.scad) / [STL](bathroom-sink-tray.stl)
 
 ### GPU Expander (Work in Progress)
 
-[SCAD](gpu-expander.scad).
+[OpenSCAD](gpu-expander.scad).
 
