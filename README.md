@@ -10,6 +10,16 @@ Some models are licensed under different terms - these models are identified in 
 
 ## Contents
 
- * ![Bathroom sink tray](img/bathroom-sink-tray.jpg) - Bathroom Sink Tray [SCAD](bathroom-sink-tray.scad) [STL](bathroom-sink-tray.stl) An above-the-sink shelf for our camper. (GPLv3)
- * GPU Expander (Work in Progress) - [SCAD](gpu-expander.scad).
+### Bathroom Sink Tray
+
+An above-the-sink shelf for our camper. (GPLv3)
+
+![Bathroom sink tray](img/bathroom-sink-tray.jpg)
+
+[SCAD](bathroom-sink-tray.scad)
+[STL](bathroom-sink-tray.stl)
+
+### GPU Expander (Work in Progress)
+
+[SCAD](gpu-expander.scad).
 
